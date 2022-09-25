@@ -21,7 +21,7 @@
 In it's own terminal / command line, run: 
 
 ```
-git clone https://github.com/PatrickAlphaC/hardhat-nft-marketplace-fcc
+git clone https://github.com/Bauchibred/Nft-marketplace-moralis
 cd hardhat-nextjs-nft-marketplace-fcc
 yarn
 ```
